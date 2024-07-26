@@ -40,13 +40,14 @@ This tool is intended for educational purposes only. The use of this tool for an
 
 We welcome contributions! If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
 
-## Contact 📬
+## Contact 📞
 
-If you have any questions or need further information, please feel free to reach out:
-
-- **GitHub**: [kianisafa](https://github.com/kianisafa)
-- **Email**: kianisafaa@gmail.com
-- **Telegram**: [kianisafa](https://t.me/+12363343330)
+- **Developer**: Safa Kiani
+- **Website**: [https://safakiani.com/](https://safakiani.com/)
+- **Instagram**: [https://www.instagram.com/kianisafa/](https://www.instagram.com/kianisafa/)
+- **Telegram**: [https://t.me/+12363343330](https://t.me/+12363343330)
+- **LinkedIn**: [https://www.linkedin.com/in/kianisafa/](https://www.linkedin.com/in/kianisafa/)
+- **Email**: [kianisafaa@gmail.com](mailto:kianisafaa@gmail.com)
 
 ---
 
